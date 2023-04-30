@@ -1,0 +1,2 @@
+# currenturlcopybutton
+ボタン一つで開いてるタブのURLをコピーしたいだけ

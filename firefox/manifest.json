@@ -1,0 +1,22 @@
+{
+    "manifest_version": 2,
+    "name": "currenturlcopybutton",
+    "version": "1.0",
+    "description": "current url copy button.",
+    "icons": {
+        "48": "icons/clipbordandurl60.png"
+    },
+    "background": {
+        "scripts": [
+            "copybutton.js"
+        ]
+    },
+    "permissions": [
+        "tabs",
+        "clipboardWrite"
+    ],
+    "browser_action": {
+        "default_icon": "icons/clipbordandurl.png",
+        "default_title": "copy"
+    }
+}
